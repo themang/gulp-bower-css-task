@@ -1,0 +1,36 @@
+{
+  "name": "gulp-bower-css-task",
+  "version": "0.1.0",
+  "description": "bundele bower css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themang/gulp-bower-css-task.git"
+  },
+  "keywords": [
+    "bundle",
+    "bower",
+    "css"
+  ],
+  "author": "joshrtay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themang/gulp-bower-css-task/issues"
+  },
+  "homepage": "https://github.com/themang/gulp-bower-css-task",
+  "dependencies": {
+    "event-stream": "^3.2.2",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.0",
+    "gulp-error-handler": "^0.1.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-minify-css": "^0.4.5",
+    "rework": "^1.0.1",
+    "rework-plugin-url": "^1.0.1",
+    "vinyl": "^0.4.6",
+    "gulp-livereload": "^3.7.0"
+  }
+}
