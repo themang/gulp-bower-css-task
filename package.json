@@ -30,7 +30,6 @@
     "gulp-minify-css": "^0.4.5",
     "rework": "^1.0.1",
     "rework-plugin-url": "^1.0.1",
-    "vinyl": "^0.4.6",
-    "gulp-livereload": "^3.7.0"
+    "vinyl": "^0.4.6"
   }
 }
