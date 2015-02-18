@@ -1,6 +1,6 @@
 {
   "name": "gulp-bower-css-task",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "bundele bower css",
   "main": "index.js",
   "scripts": {
